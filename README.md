@@ -1,4 +1,4 @@
-# Task-Manger-API
+# :computer: Task-Manger-API
 An api that helps you manage tasks
 ## :question: How it works 
 A user creates a new account and start adding tasks to a to-do list. He can then retrieve previously added tasks to see the completed and uncompleted tasks.
